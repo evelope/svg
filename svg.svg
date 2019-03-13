@@ -1,0 +1,7 @@
+<svg id="mysvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid meet">
+  <circle id="mycircle" cx="400" cy="300" r="50" />
+  <image href="https://evelope.github.io/dist/img/avatars/weiguifei.jpg" width="70%" height="50%">
+    <animate attributeName="y" from="0" to="100" dur="2s" repeatCount="10" />
+    <animate attributeName="width" from="0" to="100" dur="2s" repeatCount="10" />
+  </image>
+</svg>
